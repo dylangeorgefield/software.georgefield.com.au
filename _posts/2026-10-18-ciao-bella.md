@@ -3,11 +3,13 @@ date: 2026-10-18
 title: Ciao Bella - A notification bell training tool
 categories:
   - Blog
-feature_image: /images/blog/ciao-bella/ciao-bella-tram-gemini.png
+feature_image: /images/blog/ciao-bella/ciao-bella-tram-gemini.jpg
 feature_image_title: A concept of the ciao bella app on a Melbourne tram.
 permalink: /blog/ciao-bella-app-idea
 ---
-A notification positive re-enforcement application.
+A notification positive re-enforcement application. It uses the ASCII character BEL and hotwords.
+
+*Note: this isn't possible without cutomised 'hotwords'. I like the idea anyway.*
 
 We use dings! Humans have become used to the pleasent sound of a ding. We can use this to re-enforce learning. This is akin to 'clickers' for dogs. We aren't much different from our furry friends. We both love treats, so please, try the cake.
 
